@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me 
 https://www.linkedin.com/in/artur-kruszko-9963531b4/
+</br>
 discord: Rutra#1652
 
 <!---

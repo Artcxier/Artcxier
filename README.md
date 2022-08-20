@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Artur
 - 👀 I’m interested in Game-dev & Front-end
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+https://www.linkedin.com/in/artur-kruszko-9963531b4/
+discord: Rutra#1652
 
 <!---
 Artcxier/Artcxier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

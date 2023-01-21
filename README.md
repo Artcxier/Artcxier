@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Artur
+- 👋 Hi, I’m Artur Kruszko
 - 👀 I’m interested Front-end
 - 🌱 I’m currently learning React
 - 📫 How to reach me:

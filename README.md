@@ -3,8 +3,9 @@
 
 - 🌱 I’m currently learning **PyMongo**
 
-
 - 📫 How to reach me **kruszko.artur@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/artur-kruszko-9963531b4/](https://www.linkedin.com/in/artur-kruszko-9963531b4/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

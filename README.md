@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">Łololo</h3>
 
-- 🌱 I’m currently learning **Unity, C#**
+- 🌱 I’m currently learning **PyMongo**
 
 - 👨‍💻 All of my projects are available at [https://portfoliokruszko.pl/](https://portfoliokruszko.pl/)
 

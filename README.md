@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **PyMongo**
 
-- 👨‍💻 All of my projects are available at [https://portfoliokruszko.pl/](https://portfoliokruszko.pl/)
 
 - 📫 How to reach me **kruszko.artur@gmail.com**
 
